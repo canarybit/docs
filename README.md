@@ -1,6 +1,6 @@
 # Documentation
 
-CanaryBit Website :[canarybit.eu](https://canarybit.eu)
+CanaryBit Website: [canarybit.eu](https://canarybit.eu)
 
 ConfidentialCloud Website: [api.confidentialcloud.io](https://api.confidentialcloud.io)
 
