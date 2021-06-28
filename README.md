@@ -2,9 +2,9 @@
 
 CanaryBit Website: [canarybit.eu](https://canarybit.eu)
 
-ConfidentialCloud Website: [confidentialcloud.io](https://confidentialcloud.io)
+ConfidentialCloud Website: [confidentialcloud.io](http://confidentialcloud.io)
 
-ConfidentialCloud API: [api.confidentialcloud.io](https://api.confidentialcloud.io)
+ConfidentialCloud API: [api.confidentialcloud.io](http://api.confidentialcloud.io)
 
 ## Follow us
 
