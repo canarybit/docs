@@ -19,3 +19,5 @@ theme:
   favicon: assets/favicon.png
   icon:
     logo: logo
+
+repo_url: https://github.com/canarybit
