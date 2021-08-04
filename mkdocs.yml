@@ -19,3 +19,7 @@ theme:
   favicon: assets/images/favicon.png
   icon:
     logo: logo
+
+theme:
+  palette:
+    primary: black
