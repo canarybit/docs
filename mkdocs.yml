@@ -4,8 +4,8 @@ theme:
   custom_dir: mkdocs-material/material
 
   palette:
-    primary: cyan
-    accent: cyan
+    primary: black
+    accent: teal
 
   # 404 page
   static_templates:
@@ -25,3 +25,4 @@ theme:
     logo: logo
 
 repo_url: https://github.com/canarybit
+repo_name: squidfunk/mkdocs-material
