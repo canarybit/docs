@@ -1,0 +1,3 @@
+[submodule "confidentialcloud/confidentialcloud/mkdocs-material"]
+	path = confidentialcloud/confidentialcloud/mkdocs-material
+	url = https://github.com/squidfunk/mkdocs-material.git
