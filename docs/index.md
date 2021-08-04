@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+# Welcome to Confidential Cloud
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+For a high-level description visit [confidentialcloud.io](https://confidentialcloud.io).
 
-## Commands
+## Architecture
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+![Placeholder](https://www.canarybit.eu/wp-content/uploads/2021/07/confidential-cloud-architecture-e1627479676752.png){ align=center }
