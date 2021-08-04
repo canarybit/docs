@@ -20,6 +20,6 @@ theme:
   icon:
     logo: logo
 
-theme:
   palette:
     primary: black
+    accent: teal
