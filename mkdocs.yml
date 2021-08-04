@@ -16,6 +16,6 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: https://twitter.com/confcloud_/photo
+  favicon: assets/favicon.ico
   icon:
     logo: logo
