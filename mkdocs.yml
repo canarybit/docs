@@ -19,10 +19,7 @@ theme:
   favicon: assets/images/favicon.png
   icon:
     logo: logo
-    repo: fontawesome/brands/git-alt
 
   palette:
     primary: black
     accent: teal
-
-repo_url: https://github.com/canarybit
