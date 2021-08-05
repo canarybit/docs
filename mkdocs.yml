@@ -20,10 +20,10 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: assets/favicon.png
+  favicon: 'https://www.canarybit.eu/wp-content/uploads/2021/08/cc-logo.png'
   logo: 'https://www.canarybit.eu/wp-content/uploads/2021/08/cc-logo.png'
   icon:
-    logo: 'https://www.canarybit.eu/wp-content/uploads/2021/08/cc-logo.png'
+    logo: icon
 
 repo_url: https://github.com/canarybit
 repo_name: CanaryBit
