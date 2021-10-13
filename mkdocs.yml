@@ -3,12 +3,10 @@ theme:
   name: null
   custom_dir: mkdocs-material/material
 
-  #palette:
-  #  primary: black
-  #  accent: teal
   palette:
-    scheme: slate
-    
+    primary: black
+    accent: teal
+
   # 404 page
   static_templates:
     - 404.html
