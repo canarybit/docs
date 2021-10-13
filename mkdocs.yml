@@ -7,7 +7,7 @@ theme:
   #  primary: black
   #  accent: teal
   palette:
-    theme: slate
+    scheme: slate
     
   # 404 page
   static_templates:
