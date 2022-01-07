@@ -4,4 +4,4 @@ For a high-level description visit [confidentialcloud.io](https://confidentialcl
 
 ## Architecture
 
-![Placeholder](https://www.canarybit.eu/wp-content/uploads/2022/01/confidential-cloud-simplified-architecture-light.png)
+![Placeholder](https://www.canarybit.eu/wp-content/uploads/2022/01/confidential-cloud-architecture-light.png)
