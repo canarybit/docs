@@ -1,7 +1,7 @@
 site_name: Confidential Cloud
 theme:
-  name: null
-  custom_dir: mkdocs-material/material
+  name: material
+  theme_dir: 'overrides'
 
   palette:
     primary: black
