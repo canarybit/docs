@@ -1,4 +1,4 @@
-# Welcome to Confidential Cloud
+# Overview
 
 For a high-level description visit [confidentialcloud.io](https://confidentialcloud.io).
 
